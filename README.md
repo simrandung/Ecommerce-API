@@ -17,12 +17,12 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-api.git
+   git clone https://github.com/simrandung/Ecommerce-API.git
    
 Alternatively, download the project as a ZIP file from GitHub.
 
 Navigate to the project directory:
-cd e-commerce-api
+cd Ecommerce-API
 
 Install project dependencies:
 npm install
